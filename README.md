@@ -1,2 +1,2 @@
-# Html-and-CSS-project-1
+# Html-and-CSS-Project-1
 Html &amp; CSS project number 1
